@@ -1,0 +1,6 @@
+images/*
+!images/.gitkeep
+images_Kopie
+zu_pruefen/*
+!zu_pruefen/.gitkeep
+
