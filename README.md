@@ -5,6 +5,10 @@ All operations are offline and require no GPU.
 
 > 🇩🇪 [German version here](README_de.md)
 
+A detailed write-up of the full project can be found at the following Medium link:
+
+👉 [Caught on the wildlife cam – but who has time to watch it all?](https://medium.com/rigel-computer-com/caught-on-the-wildlife-cam-but-who-has-time-to-watch-it-all-06ebd1c65d4d)
+
 ---
 
 ## 📝 Tagline
