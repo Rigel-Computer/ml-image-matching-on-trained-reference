@@ -5,6 +5,10 @@ Das Tool läuft vollständig offline und benötigt keine GPU.
 
 > 🇬🇧 [English version here](README.md)
 
+Eine ausführliche Darstellung des gesamten Projekts finden Sie unter folgendem Medium-Link:
+
+👉 [Zu viele Igel, zu wenig Zeit? 🦔🐇🐭](https://medium.com/rigel-computer-com/zu-viele-igel-zu-wenig-zeit-f70e9cbb0600)
+
 ---
 
 ## 📝 Tagline
